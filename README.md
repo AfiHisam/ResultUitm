@@ -13,11 +13,11 @@ But that website has too many ads that annoying me, so why not we create our ver
 So here the code for those who wondering how the backend on it.
 <p> Step to use same as before 
 <pre>
-# Open e-mail and find last semester result only."UiTM EXAMINATION RESULT FOR SEMESTER" In other word, open last semester's result.
+--Open e-mail and find last semester result only."UiTM EXAMINATION RESULT FOR SEMESTER" In other word, open last semester's result.
 
-# Click right on "Print Result Online Svr 1", click COPY link address and PASTE it here.
+--Click right on "Print Result Online Svr 1", click COPY link address and PASTE it here.
 
-# Click "SUBMIT" button.
+--Click "SUBMIT" button.
 </pre>
 <p>
 DONE !!!
