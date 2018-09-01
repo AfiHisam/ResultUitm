@@ -16,20 +16,6 @@ $idsem3 = $query['idsem3'];
 
 $link = 'http://simsweb.uitm.edu.my/sportal_app/STUDENTPORTAL_EXAM_RESULT_SLIP_FROM_EMAIL/print.cfm?';
 
-/*
-
-id1 : kalau sama tahun +2, lain +8
-id2 : tak berubah
-id3 : kalau sama tahun +2, lain +8
-id4 : kalau sama tahun +2, lain +8
-id5 : No matrix, x berubah
-idsem1 : sem 20182/20184, ada dua jer 2 dan 4, kalau sebelum ni 20182 selepas nya 20184, kalau 20184 seterusnya 20192
-idsem2 : +8 kalau sama tahun, +32 kalau lain tahun
-idsem3 : +4 kalau sama tahun, +16 kalau lain tahun
-
-*/
-
-
  $currentYear = date("Y");
  $linkYear = substr($idsem1, 0, 4);
 
